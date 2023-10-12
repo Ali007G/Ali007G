@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, BlockChain, Machine Learning**
 
-- 💬 Ask me about **flutter, CS related course**
+- 💬 Ask me about **Flutter, CS related course, HTML, CSS**
 
 - 📫 How to reach me **alicsebaiust01@gmail.com**
 
