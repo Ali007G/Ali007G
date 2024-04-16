@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Ali</h1>
-<h3 align="center">A passionate CS student, Researcher & frontend developer</h3>
+<h3 align="center">A passionate CS student, Researcher & Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali007g&label=Profile%20views&color=0e75b6&style=flat" alt="ali007g" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, BlockChain, Machine Learning**
 
-- 💬 Ask me about **Flutter, CS related course, HTML, CSS**
+- 💬 Ask me about **ML/DL, BlockChain, Flutter, CS related course**
 
 - 📫 How to reach me **alicsebaiust01@gmail.com**
 
