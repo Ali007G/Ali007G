@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali007g&label=Profile%20views&color=0e75b6&style=flat" alt="ali007g" /> </p>
 
-- 🔭 I’m currently working on **Blockchain, ML/DL, Flutter, Bio Sensor/PCF**
+- 🔭 I’m currently working on **Blockchain, ML/DL, Flutter**
 
 - 🌱 I’m currently learning **Flutter, BlockChain, Machine Learning**
 
